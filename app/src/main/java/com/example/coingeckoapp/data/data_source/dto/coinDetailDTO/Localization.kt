@@ -16,7 +16,7 @@ data class Localization(
     val hr: String,
     val hu: String,
     val id: String,
-    val `it`: String,
+    val it: String,
     val ja: String,
     val ko: String,
     val lt: String,
@@ -34,5 +34,4 @@ data class Localization(
     val uk: String,
     val vi: String,
     val zh: String,
-    val zh-tw: String
 )
